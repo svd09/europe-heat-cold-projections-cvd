@@ -1,5 +1,7 @@
 # Temperature-Attributable CVD Mortality in Europe — Analysis Code
 
+_The manuscript has been accepted in the European Journal of Preventive Cardiology. DOI will be provided here once it is available._
+
 This repository contains the analysis pipeline for the manuscript on temperature-attributable
 cardiovascular mortality across Europe. Code is organized into five folders, numbered in run
 order. Scripts within each folder are also numbered in the order they should be executed.
